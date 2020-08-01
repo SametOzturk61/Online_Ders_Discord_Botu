@@ -1,0 +1,14 @@
+{
+  "name": "onlinedersbot",
+  "version": "0.0.1",
+  "description": "Online Ders Botu",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "SametOzturk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.1.1"
+  }
+}
